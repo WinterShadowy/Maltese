@@ -1,5 +1,5 @@
 1. 下载好压缩文件，并成功解压之后，进入 解压目录\dist\Maltese\
-   （请注意！！！请确保！！！ build 和 dist 这两个文件夹都在一个独立存在的文件夹之中，否则卸载时删除存在dist文件夹的同级目录下的所有文件。）
+   （请注意！！！请确保！！！ build 和 dist 这两个文件夹都在一个独立存在的文件夹之中，否则卸载时会删除存在dist文件夹的同级目录下的所有文件。）
 3. 找到Maltese.exe,第一次启动会初始化环境，再次运行Maltese.exe就会出现线条小狗。
    ![image](https://github.com/user-attachments/assets/31412db6-c10b-4acc-9cd1-a961d4b04fec)
 4. 右键线条小狗，就可以展示更多功能。

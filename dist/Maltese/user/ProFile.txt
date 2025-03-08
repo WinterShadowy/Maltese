@@ -1,0 +1,15 @@
+#字体
+Font="Sitka Subheading";
+#字体大小
+FontSize="100";
+#文本颜色
+TextColor="RGB(100,100,100)";
+#文本是否斜体
+Italic="YES";
+#文本是否粗体
+Bold="YES";
+#是否展示CPU状态
+CPUStatus="YES";
+#是否展示内存占用
+RAMStatus="YES";
+

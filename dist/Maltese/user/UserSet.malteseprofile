@@ -1,0 +1,8 @@
+// Transparency_ChildWindow
+Transparency_ChildWindow=255
+// Transparency_MainWindow
+Transparency_MainWindow=255
+// FlushTime
+FlushTime=2
+// SetSelfStarting
+SetSelfStarting=0

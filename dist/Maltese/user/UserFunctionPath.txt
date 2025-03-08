@@ -1,0 +1,5 @@
+#井号后边的内容为注释
+#用户的功能路径格式为：=="Path";
+#以英文分号为结束标志
+=="C:\\Users\\35185\\Desktop\\geek.exe";
+=="C:\\Users\\35185\\Desktop\\Visual Studio 2022.lnk";
